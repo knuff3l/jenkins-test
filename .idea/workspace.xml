@@ -17,10 +17,10 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="80">
+              <caret line="4" column="96" lean-forward="false" selection-start-line="4" selection-start-column="96" selection-end-line="4" selection-end-column="96" />
               <folding>
-                <marker date="1527154924807" expanded="true" signature="113:132" ph="..." />
+                <marker date="1527155189834" expanded="true" signature="113:167" ph="..." />
               </folding>
             </state>
           </provider>
@@ -234,7 +234,7 @@
       <workItem from="1526405464218" duration="1623000" />
       <workItem from="1526545859956" duration="626000" />
       <workItem from="1526820626052" duration="3220000" />
-      <workItem from="1527140023640" duration="1678000" />
+      <workItem from="1527140023640" duration="1896000" />
     </task>
     <task id="LOCAL-00001" summary="updated package json">
       <created>1526386498738</created>
@@ -278,11 +278,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527140388312</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="etwas hübscher">
+      <created>1527154981590</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527154981590</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13172000" />
+    <option name="totallyTimeSpent" value="13390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -320,7 +327,8 @@
     <MESSAGE value="updated package json" />
     <MESSAGE value="new port" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="etwas hübscher" />
+    <option name="LAST_COMMIT_MESSAGE" value="etwas hübscher" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -332,7 +340,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1527154924807" expanded="true" signature="113:132" ph="..." />
+            <marker date="1527155189834" expanded="true" signature="113:167" ph="..." />
           </folding>
         </state>
       </provider>
@@ -358,7 +366,7 @@
         <state relative-caret-position="140">
           <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding>
-            <marker date="1527154924807" expanded="true" signature="113:132" ph="..." />
+            <marker date="1527155189834" expanded="true" signature="113:167" ph="..." />
           </folding>
         </state>
       </provider>
@@ -384,7 +392,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1527154924807" expanded="true" signature="113:132" ph="..." />
+            <marker date="1527155189834" expanded="true" signature="113:167" ph="..." />
           </folding>
         </state>
       </provider>
@@ -402,7 +410,7 @@
         <state relative-caret-position="140">
           <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding>
-            <marker date="1527154924807" expanded="true" signature="113:132" ph="..." />
+            <marker date="1527155189834" expanded="true" signature="113:167" ph="..." />
           </folding>
         </state>
       </provider>
@@ -428,7 +436,7 @@
         <state relative-caret-position="140">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
-            <marker date="1527154924807" expanded="true" signature="113:132" ph="..." />
+            <marker date="1527155189834" expanded="true" signature="113:167" ph="..." />
           </folding>
         </state>
       </provider>
@@ -454,7 +462,7 @@
         <state relative-caret-position="140">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
-            <marker date="1527154924807" expanded="true" signature="113:132" ph="..." />
+            <marker date="1527155189834" expanded="true" signature="113:167" ph="..." />
           </folding>
         </state>
       </provider>
@@ -485,10 +493,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="80">
+          <caret line="4" column="96" lean-forward="false" selection-start-line="4" selection-start-column="96" selection-end-line="4" selection-end-column="96" />
           <folding>
-            <marker date="1527154924807" expanded="true" signature="113:132" ph="..." />
+            <marker date="1527155189834" expanded="true" signature="113:167" ph="..." />
           </folding>
         </state>
       </provider>
